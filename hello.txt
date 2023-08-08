@@ -1,2 +1,1 @@
-hello world this is first project in github
-hello ari
+Switched to a new branch 'new_branch'
